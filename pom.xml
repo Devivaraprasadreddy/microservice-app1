@@ -10,7 +10,7 @@
   <packaging>jar</packaging>
 
   <name>Microservice App</name>
-  <description>A sample Java microservice app to build and Dockerize with Jenkins</description>
+  <description>A sample Java microservice app to build and Dockerize with Jenkins </description>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
